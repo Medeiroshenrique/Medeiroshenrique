@@ -14,3 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiroshenrique&layout=compact&langs_count=7&theme=gruvbox"/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiroshenrique&layout=compact)](https://github.com/Medeiroshenrique/github-readme-stats)
+
+    
+ <i class="devicon-c-plain-wordmark"></i>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
