@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Tudo bem? Me chamo Henrique Medeiros
 
-<!--
-**Medeiroshenrique/Medeiroshenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Aprendendo Orientação a Objetos pra usar na vida profissional
+- 🌱 Estou cursando Sistemas de Informação
+- 👯 quero me tornar um programador Sênior
+- 💬 tenho sonhos e desejo me desenvolver bem na programação para torná-los realidade e prestar serviço
+- 📫 Como entrar em contato: henrique.c.r.medeiros@gmail.com
+- 😄 pode me chamar de Medeiros ou Henrique
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Medeiroshenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeiroshenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiroshenrique&layout=compact&langs_count=7&theme=dracula"/>
