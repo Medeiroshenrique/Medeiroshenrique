@@ -15,10 +15,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiroshenrique&layout=compact)](https://github.com/Medeiroshenrique/github-readme-stats)
 
-    
- <i class="devicon-c-plain-wordmark"></i>
- 
+</div style="display: inline_block"><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
+ </div>
