@@ -9,10 +9,10 @@
 
 Programo usando as tecnologias:
 <div style="display: inline-block"></br>
-  https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div></br>
 Sistemas operacionais que uso:
 <div style="display: inline-block"></br>
