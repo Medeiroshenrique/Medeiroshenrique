@@ -1,6 +1,4 @@
 ### Olá! Tudo bem? Me chamo Henrique Medeiros
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-
 - 🚢 Aprendendo Orientação a Objetos pra usar na vida profissional
 - ⌨ Estou cursando Sistemas de Informação
 - 🙂Programo em C#, C e Python
@@ -8,6 +6,19 @@ https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&log
 - 💻 Tenho sonhos e desejo me desenvolver bem na programação para torná-los realidade e prestar serviço
 - 📫 Como entrar em contato: henrique.c.r.medeiros@gmail.com
 - 😉Pode me chamar de Medeiros ou Henrique
+
+Programo usando as tecnologias:
+<div style="display: inline-block"></br>
+  https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+</div></br>
+Sistemas operacionais que uso:
+<div style="display: inline-block"></br>
+  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+  https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+</div></br>
 
 
 <div align="center">
