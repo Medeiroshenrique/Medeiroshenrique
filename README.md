@@ -1,4 +1,5 @@
 ### Olá! Tudo bem? Me chamo Henrique Medeiros
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 - 🚢 Aprendendo Orientação a Objetos pra usar na vida profissional
 - ⌨ Estou cursando Sistemas de Informação
@@ -13,6 +14,7 @@
   <a href="https://github.com/Medeiroshenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeiroshenrique&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiroshenrique&layout=compact&langs_count=7&theme=gruvbox"/>
+    
 
  
 
