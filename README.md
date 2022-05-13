@@ -2,8 +2,8 @@
 - 🚢 Aprendendo Orientação a Objetos pra usar na vida profissional
 - ⌨ Estou cursando Sistemas de Informação
 - 🙂Programo em C#, C e Python
-- 😆 Quero me tornar um programador Sênior
-- 💻 Tenho sonhos e desejo me desenvolver bem na programação para torná-los realidade e prestar serviço
+- 😆 Quero me tornar um Engenheiro de Software
+- 💻 Tenho sonhos e desejo me desenvolver bem na programação para torná-los realidade 
 - 📫 Como entrar em contato: henrique.c.r.medeiros@gmail.com
 - 😉Pode me chamar de Medeiros ou Henrique
 
