@@ -1,12 +1,5 @@
 ### Olá! Tudo bem? Me chamo Henrique Medeiros
-- 🚢 Aprendendo Orientação a Objetos pra usar na vida profissional
-- ⌨ Estou cursando Sistemas de Informação
-- 🙂Programo em C#, Python e C
-- 😆 Quero me tornar um Engenheiro de Software
-- 💻 Tenho sonhos e desejo me desenvolver bem na programação para torná-los realidade 
-- 📫 Como entrar em contato: henrique.c.r.medeiros@gmail.com
-- 😉Pode me chamar de Medeiros ou Henrique
-
+Apaixonado por tecnologia, sempre gostei de entender o funcionamento da coisas. Estou cursando Sistemas de Informação e aprendendo mais hard e soft skills. 
 Programo usando as tecnologias:
 <div style="display: inline-block"></br>
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
