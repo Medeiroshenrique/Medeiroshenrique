@@ -5,6 +5,7 @@ I have experience developing an API in a Project of Extension in Technology in w
 I have developed other APIs to practice and some design patterns to improve my software development skills. 
 I also like to read, so I know some concepts from the book Clean Code and Design Patterns.
 
+I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
 <div>
 Email: henrique.c.r.medeiros@gmail.com<br>
 Cellphone number: +55 87 99639-6279<br>
@@ -27,7 +28,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/medeiroshenrique/">https://www.li
 -> I know some stuff about docker and containers that I've learned while writing an article<br>
 </div>
 
-I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
 
 # Here are some technologies I can work with:
 <div style="display: inline-block">
