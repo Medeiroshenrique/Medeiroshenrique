@@ -5,9 +5,11 @@ I have experience developing an API in a Project of Extension in Technology in w
 I have developed other APIs to practice and some design patterns to improve my software development skills. 
 I also like to read, so I know some concepts from the book Clean Code and Design Patterns.
 
-Email: henrique.c.r.medeiros@gmail.com
-Cellphone number: +55 87 99639-6279
-LinkedIn: https://www.linkedin.com/in/medeiroshenrique/
+<div>
+Email: henrique.c.r.medeiros@gmail.com<br>
+Cellphone number: +55 87 99639-6279<br>
+LinkedIn: <a href="https://www.linkedin.com/in/medeiroshenrique/">https://www.linkedin.com/in/medeiroshenrique/</a>
+</div>
 
 Other skills:
 -> Advanced English
