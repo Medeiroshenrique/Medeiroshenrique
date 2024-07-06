@@ -10,7 +10,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
     I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
   </p>
   <div style="flex: 0 0 auto; margin-left: 20px;">
-    ![[Typing animation]](https://your_image_hosting_url/your_gif.gif) { width: 100px; height: auto; }  </div>
+    ![[Typing animation]](https://tenor.com/view/typing-petty-fast-cloudy-with-a-chance-of-meatballs-flint-lockwood-gif-4907824.gif) { width: 100px; height: auto; }  </div>
 </div>
 
 
