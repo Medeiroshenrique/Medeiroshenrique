@@ -11,19 +11,21 @@ Cellphone number: +55 87 99639-6279<br>
 LinkedIn: <a href="https://www.linkedin.com/in/medeiroshenrique/">https://www.linkedin.com/in/medeiroshenrique/</a>
 </div>
 
-Other skills:
--> Advanced English
--> I'm Brazilian then I'm good with Brazilian Portuguese
--> Basic Spanish
--> Object-oriented programming
--> Relational databases like SQL Server, Oracle database, MySql, PostgreSQL, and similar
--> ASP .NetCore, EntityFramework, and Windows Forms for desktop applications
--> I can read mostly Java codes for their similarity to C#
--> Debian-based Linux distros
--> Unity Tests - with NUnit
--> Python fundamentals
--> C fundamentals
--> I know some stuff about docker and containers that I've learned while writing an article
+# Other skills:
+<div>
+-> Advanced English<br>
+-> I'm Brazilian then I'm good with Brazilian Portuguese<br>
+-> Basic Spanish<br>
+-> Object-oriented programming<br>
+-> Relational databases like SQL Server, Oracle database, MySql, PostgreSQL, and similar<br>
+-> ASP .NetCore, EntityFramework, and Windows Forms for desktop applications<br>
+-> I can read mostly Java codes for their similarity to C#<br>
+-> Debian-based Linux distros<br>
+-> Unity Tests - with NUnit<br>
+-> Python fundamentals<br>
+-> C fundamentals<br>
+-> I know some stuff about docker and containers that I've learned while writing an article<br>
+</div>
 
 I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
 
