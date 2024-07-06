@@ -6,6 +6,8 @@ I have developed other APIs to practice and some design patterns to improve my s
 I also like to read, so I know some concepts from the book Clean Code and Design Patterns.
 
 I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
+<img src="https://tenor.com/view/grinder-wl-myria-gif-26124835" />
+
 <div>
 Email: henrique.c.r.medeiros@gmail.com<br>
 Cellphone number: +55 87 99639-6279<br>
