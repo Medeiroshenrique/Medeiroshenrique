@@ -52,5 +52,3 @@ I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
   
           
 </div></br>
-
-Estou aberto à críticas cunstrutivas e sugestões de novas funcionalidades ou melhorias de código nos projetos, sinta-se a vontade para entrar em contato. Obrigado!
