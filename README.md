@@ -5,14 +5,7 @@ I have experience developing an API in a Project of Extension in Technology in w
 I have developed other APIs to practice and some design patterns to improve my software development skills. 
 I also like to read, so I know some concepts from the book Clean Code and Design Patterns.
 
-<div style="display: flex; align-items: center;">
-  <p style="flex: 1;">
     I live in the state of Pernambuco, currently. It is in the Northeast of Brazil.
-  </p>
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    ![Alt Text](https://tenor.com/view/typing-petty-fast-cloudy-with-a-chance-of-meatballs-flint-lockwood-gif-4907824.gif) { width: 100px; height: auto; }  </div>
-</div>
-
 
 <div>
 Email: henrique.c.r.medeiros@gmail.com<br>
