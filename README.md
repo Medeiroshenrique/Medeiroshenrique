@@ -15,6 +15,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 </div>
 
 <div>
+  Or you can contact me this way: 
 Cellphone number: +55 87 99639-6279<br>
 </div>
 
