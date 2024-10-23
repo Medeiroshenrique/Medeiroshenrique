@@ -16,7 +16,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 </div>
 
 <div>
-  Or you can contact me through my cellphone number: +55 87 99639-6279<br>
+  You can also contact me through my cellphone number: +55 87 99639-6279<br>
 </div>
   
   <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="35%" />
