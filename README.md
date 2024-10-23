@@ -1,4 +1,7 @@
-<img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique">
+<p align="center">
+  <img src="Screenshot from 2024-07-10 14-00-48.png" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" />
+  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" />
+</p>
 
 Currently, I'm studying Information Systems at Universidade de Pernambuco, I'm ending up the course and looking forward to an internship or a part-time job.
 I have experience developing an API in a Project of Extension in Technology in which I developed a system for a hypothetical international airplane company. 
