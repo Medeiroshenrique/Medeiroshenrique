@@ -1,6 +1,5 @@
 
   <img src="Screenshot from 2024-07-10 14-00-48.png" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="60%" />
-  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="35%" />
 
 
 Currently, I'm studying Information Systems at Universidade de Pernambuco, I'm ending up the course and looking forward to an internship or a part-time job.
@@ -17,9 +16,10 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 </div>
 
 <div>
-  Or you can contact me this way: 
-Cellphone number: +55 87 99639-6279<br>
+  Or you can contact me through my cellphone number: +55 87 99639-6279<br>
 </div>
+  
+  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="35%" />
 
 ## Other skills:
 <div>
