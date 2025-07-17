@@ -30,8 +30,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
   <a href="https://www.instagram.com/medeiros_henrique101/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henrique.c.r.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  [![WhatsApp](images/whatsapp-icon.png)](https://api.whatsapp.com/send?phone=5587996396279&text=Ol%C3%A1%20Henrique%2C%20notei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar "Send me a message on WhatsApp")
-</div>
+  <a href="https://api.whatsapp.com/send?phone=5587996396279&text=Ol%C3%A1%20Henrique%2C%20notei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a></div>
 
 <div>
   <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" />
