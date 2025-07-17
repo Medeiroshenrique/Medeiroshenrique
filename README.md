@@ -23,7 +23,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 -> I can read mostly Java codes for their similarity to C#<br>
 -> Debian-based Linux distros<br>
 -> Unity Tests - with NUnit<br>
--> Java Fundamentals(Learning SpringBoot currently)
+-> Java Fundamentals(Learning SpringBoot currently)<br>
 -> Python fundamentals<br>
 -> C fundamentals<br>
 -> I know some stuff about docker and containers that I've learned while writing an article<br>
