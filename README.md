@@ -28,7 +28,9 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 -> I know some stuff about docker and containers that I've learned while writing an article<br>
 </div>
 
+<div>
   <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" />
+</div>
 
 ## Here are some technologies I can work with:
 <div style="display: inline-block">
