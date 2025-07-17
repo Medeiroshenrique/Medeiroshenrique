@@ -2,7 +2,7 @@
   <img src="Capa de vídeo para YouTube amarelo e branco impactante.png" alt="banner" width="65%" />
 </p>
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Software development</span>
 <p align="center">
   Click to see my profile or send me an email:<br>
   <a href="https://www.instagram.com/medeiros_henrique101/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
