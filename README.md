@@ -35,7 +35,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 
 
 <p align="center">
-  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);" />
+  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="45%" style="border: 2px solid #333; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); border-width: 5px; border-color: blue;" />
 </p>
 
 ## Here are some technologies I can work with:
