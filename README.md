@@ -29,7 +29,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 -> Java Fundamentals(Learning SpringBoot currently)<br>
 -> Python fundamentals<br>
 -> C fundamentals<br>
--> I know some stuff about docker and containers that I've learned while writing an article<br>
+-> Docker <br>
 </div>
 
 
