@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Capa de vídeo para YouTube amarelo e branco impactante.png" alt="banner" width="65%" />
-  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="30%" />
+  <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="15%" />
 </p>
 
 Currently, I'm studying Information Systems at Universidade de Pernambuco, I'm ending up the course and looking forward to an internship or a part-time job.
