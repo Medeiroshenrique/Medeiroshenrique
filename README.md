@@ -14,15 +14,16 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 
 ## Other skills:
 <div>
--> Advanced English<br>
+-> Upper Intermediate English (B2)<br>
 -> I'm Brazilian then I'm good with Brazilian Portuguese<br>
--> Basic Spanish<br>
+-> Basic Spanish (A2)<br>
 -> Object-oriented programming<br>
 -> Relational databases like SQL Server, Oracle database, MySql, PostgreSQL, and similar<br>
 -> ASP .NetCore, EntityFramework, and Windows Forms for desktop applications<br>
 -> I can read mostly Java codes for their similarity to C#<br>
 -> Debian-based Linux distros<br>
 -> Unity Tests - with NUnit<br>
+-> Java Fundamentals(Learning SpringBoot currently)
 -> Python fundamentals<br>
 -> C fundamentals<br>
 -> I know some stuff about docker and containers that I've learned while writing an article<br>
