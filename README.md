@@ -24,7 +24,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
     <td valign="top" width="15%">
       <img src="typing_on_Laptop.gif.gif" alt="Seu GIF animado" width="100%" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h2>Other skills:</h2>
       <div>
         -> Upper Intermediate English (B2)<br>
