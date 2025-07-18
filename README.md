@@ -40,9 +40,10 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 ## I can work with:
 
 <p align="left">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="icons/postgresql.png" alt="PostgreSQL" width="40" height="40" />
-    </a>
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="icons/postgresql.png" alt="PostgreSQL" width="40" height="40" /> 
+    </a> 
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
     </a>
