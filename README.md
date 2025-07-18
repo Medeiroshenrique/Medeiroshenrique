@@ -17,10 +17,12 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 
 <br>
 
+<br>
+
 <table>
   <tr>
     <td valign="top" width="15%">
-      <img src="typing_on_Laptop.gif.gif" alt="banner that says Hi, I'm Henrique - Information Systems Student alongside a cartoon illustration of Henrique" width="100%" style="border: 2px solid #333; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); border-width: 5px; border-color: blue;" />
+      <img src="typing_on_Laptop.gif.gif" alt="Seu GIF animado" width="100%" />
     </td>
     <td valign="top">
       <h2>Other skills:</h2>
@@ -44,6 +46,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 </table>
 
 <br>
+
 
 <p align="center">
   <img src="Imagem de Capa Artigo Moderno Azul Linkedin Compartilhar Conhecimento Internet.png" alt="banner" width="80%" />
