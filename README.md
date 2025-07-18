@@ -38,7 +38,7 @@ I also like to read, so I know some concepts from the book Clean Code and Design
 </p>
 
 <p align="center">
-  <img src="Imagem de Capa Artigo Moderno Azul Linkedin Compartilhar Conhecimento Internet.png" alt="banner" width="65%" />
+  <img src="Imagem de Capa Artigo Moderno Azul Linkedin Compartilhar Conhecimento Internet.png" alt="banner" width="80%" />
 </p>
           
 </div></br>
