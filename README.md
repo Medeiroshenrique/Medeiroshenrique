@@ -9,11 +9,11 @@
   <a href="mailto:henrique.c.r.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-Currently, I'm studying Information Systems at Universidade de Pernambuco, I'm ending up the course and looking forward to an internship or a part-time job.
-I have experience developing an API in a Project of Extension in Technology in which I developed a system for a hypothetical international airplane company. 
-I have developed other APIs to practice and some design patterns to improve my software development skills. 
-I also like to read, so I know some concepts from the book Clean Code and Design Patterns.
+🇧🇷 Português brasileiro
+Ponto e vírgula soluções em software: Somos uma empresa especializada em engenharia e desenvolvimento de software para resolução de problemas e/ou criação de aplicações web. Caso esteja com algum projeto em mente ou está precisado de resolução de problemas por meio de programação de sistemas, sinta-se a vontade para entrar em contato conosco.
 
+🇺🇸 American English
+Semicolon software solutions: We are a company specialized in software engineering and development focused on problem-solving and building web applications.. If you have some idea of project in mind or wheter you need some type of problem solving through system programming, feel free to get in touch. 
 <br>
 
 <br>
@@ -27,18 +27,15 @@ I also like to read, so I know some concepts from the book Clean Code and Design
       <h2>Other skills:</h2>
       <div>
         -> Upper Intermediate English (B2)<br>
-        -> I'm Brazilian then I'm good with Brazilian Portuguese<br>
         -> Basic Spanish (A2)<br>
+        -> Java with SpringBoot<br>
         -> Object-oriented programming<br>
-        -> Relational databases like SQL Server, Oracle database, MySql, PostgreSQL, and similar<br>
-        -> ASP .NetCore, EntityFramework, and Windows Forms for desktop applications<br>
-        -> I can read mostly Java codes for their similarity to C#<br>
+        -> Relational databases like PostgreSQL, SQL Server, Oracle database, MySql, H2 Database, and similar ones<br>
+        -> Docker <br>
+        -> Unit Tests - with NUnit<br>
         -> Debian-based Linux distros<br>
-        -> Unity Tests - with NUnit<br>
-        -> Java Fundamentals(Learning SpringBoot currently)<br>
         -> Python fundamentals<br>
         -> C fundamentals<br>
-        -> Docker <br>
       </div>
     </td>
   </tr>
