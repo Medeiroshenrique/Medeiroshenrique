@@ -20,7 +20,7 @@ Semicolon software solutions: We are a company specialized in software engineeri
 
 <table>
     <td valign="center">
-      <h2>Other skills:</h2>
+      <h2> Our specialties:</h2>
       <div>
         -> Upper Intermediate English (B2)<br>
         -> Basic Spanish (A2)<br>
@@ -30,8 +30,6 @@ Semicolon software solutions: We are a company specialized in software engineeri
         -> Docker <br>
         -> Unit Tests - with NUnit<br>
         -> Debian-based Linux distros<br>
-        -> Python fundamentals<br>
-        -> C fundamentals<br>
       </div>
     </td>
 </table>
