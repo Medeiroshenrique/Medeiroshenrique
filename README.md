@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Capa de vídeo para YouTube amarelo e branco impactante.png" alt="banner" width="65%" />
+  <img src="GithubBanner.jpg" alt="banner" width="65%" />
 </p>
 
 <p align="center">
