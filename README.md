@@ -19,10 +19,6 @@ Semicolon software solutions: We are a company specialized in software engineeri
 <br>
 
 <table>
-  <tr>
-    <td valign="top" width="15%">
-      <img src="typing_on_Laptop.gif.gif" alt="Seu GIF animado" width="100%" />
-    </td>
     <td valign="center">
       <h2>Other skills:</h2>
       <div>
@@ -38,7 +34,6 @@ Semicolon software solutions: We are a company specialized in software engineeri
         -> C fundamentals<br>
       </div>
     </td>
-  </tr>
 </table>
 <br>
 
