@@ -36,5 +36,5 @@ Semicolon software solutions: We are a company specialized in software engineeri
 <br>
 
 <p align="center">
-  <img src="Imagem de Capa Artigo Moderno Azul Linkedin Compartilhar Conhecimento Internet.png" alt="banner" width="80%" />
+  <img src="Linkedin banner geométrico mesa de trabalho.png" alt="banner" width="80%" />
 </p>
