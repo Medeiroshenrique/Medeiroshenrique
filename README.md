@@ -16,9 +16,19 @@
 
 ---
 
-### 🇧🇷 Português brasileiro
+### 🇧🇷 Sobre a Ponto e Vírgula Soluções em Software
 **Ponto e vírgula soluções em software:** Somos uma empresa especializada em engenharia e desenvolvimento de software focada na resolução de problemas e criação de aplicações web. Caso tenha um projeto em mente ou precise de soluções técnicas via programação de sistemas, sinta-se à vontade para entrar em contato.
 
-### 🇺🇸 American English
-**Semicolon software solutions:** We are specialized in software engineering and development focused on problem-solving and building web applications. Whether you have a project in mind or need technical solutions through systems programming, feel free to get in touch. 
+## 🤵 Sobre mim
+Desenvolvedor backend brasileiro em especialização em Java e Spring Boot, com foco em construir APIs confiáveis e escaláveis. 
+Tenho experiência no desenvolvimento de serviços RESTful, trabalhando com bancos de dados SQL e aplicando princípios de código limpo e orientação a objetos para entregar soluções de fácil manutenção. Priorizo uma comunicação clara, o cumprimento de prazos e a escrita de código que seja fácil de entender e evoluir.
 
+### 🇺🇸 About Semicolon Software Solutions 
+**Semicolon software solutions:** We specialize in software engineering and development, with a core focus on problem-solving and building web applications. Whether you have a project in mind or require technical solutions through systems programming, please feel free to get in touch.
+
+## 🤵 About Me 
+Brazilian Backend Developer specializing in Java and Spring Boot, focused on building reliable and scalable APIs.
+
+I have experience designing RESTful services, working with SQL databases, and applying clean code and object-oriented principles to deliver maintainable solutions. I prioritize clear communication, meeting deadlines, and writing code that is easy to understand and extend.
+
+If you need a dependable developer to build or improve your backend system, I’m ready to help.
