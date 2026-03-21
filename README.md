@@ -22,7 +22,3 @@
 ### 🇺🇸 American English
 **Semicolon software solutions:** We are specialized in software engineering and development focused on problem-solving and building web applications. Whether you have a project in mind or need technical solutions through systems programming, feel free to get in touch. 
 
-
-<p align="center">
-  <img src="Linkedin banner geométrico mesa de trabalho.png" alt="banner" width="80%" />
-</p>
