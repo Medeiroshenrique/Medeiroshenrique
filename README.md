@@ -1,4 +1,8 @@
-                                                                                                                        
+<p align="center">
+  <img src="./ascii-art-text-_1_.svg" alt="ASCII Art" />
+</p>
+--- 
+
 <p align="center">
   <strong></strong><br>
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
