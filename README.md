@@ -32,24 +32,6 @@
 ### 🇺🇸 American English
 **Semicolon software solutions:** We are specialized in software engineering and development focused on problem-solving and building web applications. Whether you have a project in mind or need technical solutions through systems programming, feel free to get in touch. 
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h2>🚀 Our Specialties</h2>
-      <ul>
-        <li><strong>Back-end:</strong> Java with Spring Boot, OOP, Docker</li>
-        <li><strong>Databases:</strong> PostgreSQL, SQL Server, Oracle, MySQL, and H2</li>
-        <li><strong>Testing & QA:</strong> Unit Testing with NUnit</li>
-        <li><strong>Infrastructure:</strong> Debian-based Linux distributions</li>
-        <li><strong>Languages:</strong> English (B2), Portuguese (Native), Spanish (A2)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <p align="center">
   <img src="Linkedin banner geométrico mesa de trabalho.png" alt="banner" width="80%" />
