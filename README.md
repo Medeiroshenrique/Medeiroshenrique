@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./ascii-art-text-_1_.svg" alt="ASCII Art" />
 </p>
---- 
 
 <p align="center">
   <strong></strong><br>
