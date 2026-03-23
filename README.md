@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./ascii-art-text-_1_.svg" alt="ASCII Art" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer;Java+%26+Spring+Boot" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
