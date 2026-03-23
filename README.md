@@ -30,7 +30,7 @@ I have experience designing RESTful services, working with SQL databases, and ap
 
 If you need a dependable developer to build or improve your backend system, I’m ready to help.
 
-<h1>  My Github Status </h1>
+<h1></h1>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=nord&date_format=M%20j%5B%2C%20Y%5D"/></p>
   <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>
 <div align="center">
