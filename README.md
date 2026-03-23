@@ -11,7 +11,6 @@
 <p align="center">
   <img src="GithubBanner.jpg" alt="banner" width="65%" />
 </p>
----
 
 ### 🇧🇷 Sobre a Ponto e Vírgula Soluções em Software
 **Ponto e vírgula soluções em software:** Somos uma empresa especializada em engenharia e desenvolvimento de software focada na resolução de problemas e criação de aplicações web. Caso tenha um projeto em mente ou precise de soluções técnicas via programação de sistemas, sinta-se à vontade para entrar em contato.
