@@ -11,9 +11,6 @@
 <p align="center">
   <img src="GithubBanner.jpg" alt="banner" width="65%" />
 </p>
-
-
-
 ---
 
 ### 🇧🇷 Sobre a Ponto e Vírgula Soluções em Software
@@ -32,3 +29,8 @@ Brazilian Backend Developer specializing in Java and Spring Boot, focused on bui
 I have experience designing RESTful services, working with SQL databases, and applying clean code and object-oriented principles to deliver maintainable solutions. I prioritize clear communication, meeting deadlines, and writing code that is easy to understand and extend.
 
 If you need a dependable developer to build or improve your backend system, I’m ready to help.
+
+<h1>  My Github Stats </h1>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
+  <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=github_dark"/></p>
+<div align="center">
