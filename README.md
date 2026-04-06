@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer;Java+%26+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
 </p>
 
 
@@ -9,9 +9,13 @@
   <a href="mailto:henrique.c.r.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="GithubBanner.jpg" alt="banner" width="65%" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=SQL+%7C+Spring+%7C+Hibernate" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 ### 🇧🇷 Sobre a Ponto e Vírgula Soluções em Software
 **Ponto e vírgula soluções em software:** Somos uma empresa especializada em engenharia e desenvolvimento de software focada na resolução de problemas e criação de aplicações web. Caso tenha um projeto em mente ou precise de soluções técnicas via programação de sistemas, sinta-se à vontade para entrar em contato.
