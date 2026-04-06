@@ -9,6 +9,10 @@
   <a href="mailto:henrique.c.r.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<a href="[https://your-portfolio-link.com](https://henriquemedeirosportifolio.netlify.app/)" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
   <br/>
