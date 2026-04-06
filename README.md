@@ -9,7 +9,7 @@
   <a href="mailto:henrique.c.r.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<a href="[https://your-portfolio-link.com](https://henriquemedeirosportifolio.netlify.app/)" target="_blank">
+<a href="[[https://your-portfolio-link.com](https://henriquemedeirosportifolio.netlify.app/)](https://henriquemedeirosportifolio.netlify.app/)" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
