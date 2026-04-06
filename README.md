@@ -17,17 +17,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-### 🇧🇷 Sobre a Ponto e Vírgula Soluções em Software
-**Ponto e vírgula soluções em software:** Somos uma empresa especializada em engenharia e desenvolvimento de software focada na resolução de problemas e criação de aplicações web. Caso tenha um projeto em mente ou precise de soluções técnicas via programação de sistemas, sinta-se à vontade para entrar em contato.
-
-## 🤵 Sobre mim
+### 🇧🇷 Sobre mim
 Desenvolvedor backend brasileiro em especialização em Java e Spring Boot, com foco em construir APIs confiáveis e escaláveis. 
 Tenho experiência no desenvolvimento de serviços RESTful, trabalhando com bancos de dados SQL e aplicando princípios de código limpo e orientação a objetos para entregar soluções de fácil manutenção. Priorizo uma comunicação clara, o cumprimento de prazos e a escrita de código que seja fácil de entender e evoluir.
 
-### 🇺🇸 About Semicolon Software Solutions 
-**Semicolon software solutions:** We specialize in software engineering and development, with a core focus on problem-solving and building web applications. Whether you have a project in mind or require technical solutions through systems programming, please feel free to get in touch.
-
-## 🤵 About Me 
+### 🇺🇸 About Me 
 Brazilian Backend Developer specializing in Java and Spring Boot, focused on building reliable and scalable APIs.
 
 I have experience designing RESTful services, working with SQL databases, and applying clean code and object-oriented principles to deliver maintainable solutions. I prioritize clear communication, meeting deadlines, and writing code that is easy to understand and extend.
@@ -39,4 +33,3 @@ If you need a dependable developer to build or improve your backend system, I’
   <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Medeiroshenrique&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
