@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-14213d?style=for-the-badge">
+  </a>
+</p>
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank">
@@ -27,15 +36,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-14213d?style=for-the-badge">
-  </a>
-</p>
-  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
-</p>
 
 ### 🇧🇷 Sobre mim
 Desenvolvedor backend brasileiro em especialização em Java e Spring Boot, com foco em construir APIs confiáveis e escaláveis. 
