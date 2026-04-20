@@ -15,20 +15,19 @@
 <br><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5587996396279&text=Ol%C3%A1%20Henrique%2C%20notei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://api.whatsapp.com/send?phone=5587996396279&text=Ol%C3%A1%20Henrique%2C%20notei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:henrique.c.r.medeiros@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:henrique.c.r.medeiros@gmail.com" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@SemicolonSoftwareSolutions" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.youtube.com/@SemicolonSoftwareSolutions" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
