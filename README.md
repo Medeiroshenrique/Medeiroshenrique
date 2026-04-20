@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FCA311&center=true&vCenter=true&width=600&lines=Java+•+Spring+•+Hibernate+•+SQL;Backend+Development+•+REST+APIs+•+Clean+Code" />
 </p>
 
 <p align="center">
@@ -14,20 +18,6 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FCA311&center=true&vCenter=true&width=600&lines=Java+•+Spring+•+Hibernate+•+SQL;Backend+Development+•+REST+APIs+•+Clean+Code" />
-</p>
-
-sei que enviei um print que faz a Stack parecer estática e travada, mas é uma animação em movimento que aumenta a dinâmica e concorda com o meu nome(que possui o mesmo efeito)
-
-meu nome: <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
-</p>
- 
 <p align="center">
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank" style="margin: 0 6px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
