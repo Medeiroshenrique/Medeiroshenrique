@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-14213d?style=for-the-badge">
-  </a>
+  <a href="https://henriquemedeirosportifolio.netlify.app">
+  <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-14213d?style=for-the-badge">
+</a>
 </p>
   
 <p align="center">
