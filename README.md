@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/pointing_at_the_top.png" alt="Pointing" width="300"/>
+</p>
 
 <p align="center">
   <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
