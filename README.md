@@ -45,6 +45,8 @@ I have experience designing RESTful services, working with SQL databases, and ap
 
 If you need a dependable developer to build or improve your backend system, I’m ready to help.
 
+<br><br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
