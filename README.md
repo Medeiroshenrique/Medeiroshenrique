@@ -25,7 +25,7 @@
 </p>
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/pointing_at_the_top.png" alt="Pointing" width="300"/>
+  <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
 </p>
 
 <div align="center">
