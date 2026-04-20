@@ -18,6 +18,15 @@
   </a>
 </p>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=SQL+%7C+Spring+%7C+Hibernate" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -27,14 +36,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=SQL+%7C+Spring+%7C+Hibernate" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
-</div>
 
 ### 🇧🇷 Sobre mim
 Desenvolvedor backend brasileiro em especialização em Java e Spring Boot, com foco em construir APIs confiáveis e escaláveis. 
