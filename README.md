@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-14213d?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-14213d?style=for-the-badge">
   </a>
 </p>
   
