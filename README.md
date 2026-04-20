@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HENRIQUE+MEDEIROS;Backend+Software+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-14213d?style=for-the-badge">
-  </a>
-</p>
+<a href="https://henriquemedeirosportifolio.netlify.app">
+  <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-14213d?style=for-the-badge">
+</a>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
