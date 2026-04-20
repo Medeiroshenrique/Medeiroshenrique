@@ -45,7 +45,16 @@ I have experience designing RESTful services, working with SQL databases, and ap
 
 If you need a dependable developer to build or improve your backend system, I’m ready to help.
 
-<h1></h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<div>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
   <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>
 <div align="center">
