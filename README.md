@@ -4,9 +4,6 @@
 
 
 <p align="center">
-  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -21,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://henriquemedeirosportifolio.netlify.app" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+</p>
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/pointing_at_the_top.png" alt="Pointing" width="300"/>
 </p>
