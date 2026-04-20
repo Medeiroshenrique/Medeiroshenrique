@@ -12,6 +12,8 @@
   <img src="https://raw.githubusercontent.com/Medeiroshenrique/Medeiroshenrique/main/xw0tw0hsphrmy0cxnjqb9fkdg8_preview_0-ezremove.png" alt="Pointing" width="300"/>
 </p>
 
+<br><br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/medeiroshenrique/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
