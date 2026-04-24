@@ -47,20 +47,35 @@ If you need a dependable developer to build or improve your backend system, I’
 
 <br><br>
 
-<div>
-  <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>  
-</div align="center">
+### 🚀 O que eu faço | What I Do
 
+| 🇧🇷 Português | 🇺🇸 English |
+| :--- | :--- |
+| **Desenvolvimento de APIs:** Construção de sistemas robustos e escaláveis utilizando o ecossistema Java e Spring Boot. | **API Development:** Building robust and scalable systems using the Java ecosystem and Spring Boot. |
+| **Qualidade de Código:** Aplicação rigorosa de SOLID, Design Patterns e Clean Code para garantir manutenibilidade. | **Code Quality:** Strict application of SOLID, Design Patterns, and Clean Code to ensure long-term maintainability. |
+| **Persistência de Dados:** Modelagem e otimização de bancos de dados relacionais com foco em performance. | **Data Persistence:** Modeling and optimizing relational databases with a focus on performance. |
+| **Containerização:** Gerenciamento e deploy de ambientes consistentes utilizando Docker e Docker Compose. | **Containerization:** Managing and deploying consistent environments using Docker and Docker Compose. |
+
+<br>
+
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<div>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
-<div align="center">
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark" height="200"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="200"/></td>
+    </tr>
+  </table>
+</p>
