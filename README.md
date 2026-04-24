@@ -47,6 +47,10 @@ If you need a dependable developer to build or improve your backend system, I’
 
 <br><br>
 
+<div>
+  <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>  
+</div align="center">
+
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -58,6 +62,5 @@ If you need a dependable developer to build or improve your backend system, I’
 
 <div>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Medeiroshenrique&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/></p>
-  <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medeiroshenrique&theme=dark"/></p>
 <div align="center">
 
