@@ -83,6 +83,8 @@ If you need a dependable developer to build or improve your backend system, I’
 
 <br clear="left"/>
 
+<br></ber>
+
 ### 📊 GitHub Stats
 <p align="center">
   <table align="center">
